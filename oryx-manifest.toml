@@ -1,0 +1,6 @@
+[build]
+version = "1"
+
+[platform]
+os = "linux"
+python = "3.10"
